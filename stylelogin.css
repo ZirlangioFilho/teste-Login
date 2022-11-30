@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(mapa.jpg);
+    font-size: 20px;
+    text-align: center;
+}
+
+form{
+    background-color: rgba(0, 0,0, 0.9);
+    position:relative;
+    align-items: center;
+  
+    padding: 80px;
+    border-radius: 10%;
+    color: white;
+    
+}
+
+input{
+    position: relative;
+    left: -45%;
+      
+}
